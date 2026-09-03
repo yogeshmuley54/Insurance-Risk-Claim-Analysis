@@ -1,2 +1,7 @@
-# Insurance-Risk-Claim-Analysis
-Interactive Power BI dashboard for analyzing insurance claims, risk patterns, and policy performance.
+Insurance-Risk-Claim-Analysis
+│
+├── README.md
+├── Power BI
+│   └── Insurance Claims Analysis Report.pbix
+└── Screenshots
+    └── Insurance_Risk_Claim_Analysis.png
