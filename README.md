@@ -30,7 +30,17 @@ The dashboard provides a consolidated view of key insurance metrics and enables 
 - **$5.0K** Average Claim Amount
 - **18.7K** Male Customers
 - **18.8K** Female Customers
+  
+---
 
+## 💡 Key Insights
+
+- **Private vehicle use dominates the portfolio**, accounting for approximately 30K policies compared with around 7K commercial-use policies.
+- **Customer distribution is relatively balanced across coverage zones**, with each zone contributing close to 20% of total policies.
+- **Customers aged 26–65 represent the largest customer segments**, with each major age group contributing approximately 7K policies.
+- **Bachelor's degree holders represent the largest education segment**, with approximately 19K policies.
+- **Ford and Chevrolet are among the leading car makes by policy volume**, making them important segments for portfolio analysis.
+- **Claim amounts vary significantly across education and marital-status combinations**, providing opportunities for deeper customer-segment analysis.
 ---
 
 ## 📈 Dashboard Analysis
