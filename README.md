@@ -6,6 +6,12 @@ An interactive Power BI dashboard designed to analyze insurance claims, policy d
 
 ![Insurance Risk & Claim Analysis Dashboard](Screenshots/Insurance-Risk-Claim-Analysis.png)
 
+### 📊 Live Power BI Dashboard
+
+[**🔗 View Interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNzczZTE4M2YtYWVlNy00M2E1LWI0YTctOTc5YWE2NDNlYjJmIiwidCI6ImUzNGQ1NmU3LWNjYjgtNGNiNS04NDdmLTFmZGQ2MTEzYWE4OCJ9)
+
+> Explore the dashboard interactively to analyze insurance policies, claim amounts, customer demographics, vehicle characteristics, and risk patterns.
+
 ---
 
 ## 🎯 Project Objective
